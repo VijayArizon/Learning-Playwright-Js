@@ -183,6 +183,9 @@ const sheet1 =workbook.Sheets['login'];
 const data =XLSX.utils.sheet_to_json(sheet1);
 
 
-// for(const row of data){
-    console.log(row.Password);
+for(const row of data){
+    console.log(row.Pass);
+}
+
+    
 
