@@ -1,3 +1,3 @@
 console.log("Hello World");
 
-console.log("learnig js");
+console.log("learnig Javascript");
